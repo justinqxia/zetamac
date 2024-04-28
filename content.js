@@ -47,4 +47,4 @@ function pressEnter(inputElement) {
     inputElement.dispatchEvent(enterKeyEvent);
 }
 
-setInterval(solveProblem, 1230);
+setInterval(solveProblem, 1000);
